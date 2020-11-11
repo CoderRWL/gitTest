@@ -8,3 +8,4 @@
 5.我在relese分支里打包提测，和修改bug。
 6.release版本终于可以发版了，上线appstore，打上tag0.1
 8.B开发功能二提交
+9.我想打一个功能2的tag
