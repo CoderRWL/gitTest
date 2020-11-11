@@ -10,5 +10,6 @@
 7.我是hot fix and daily retain
 8.功能一开发
 9.功能一完成，可以提交版本
+10.appstore0.2准备上线
 
 
